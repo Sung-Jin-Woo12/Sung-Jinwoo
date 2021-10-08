@@ -23,7 +23,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pirate-Hunter/Sung-Jinwoo.git)
-
+.
 </details>  
 <details>
   <summary>Steps to self Host!! </summary>
